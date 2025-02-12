@@ -16,7 +16,6 @@ I'm a passionate **full-stack web developer** and **competitive programmer** wit
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NurdauletSovetkhan&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NurdauletSovetkhan&theme=radical" alt="GitHub Streak" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurdauletSovetkhan&layout=compact&theme=radical" alt="Top Languages" />
 </div>
@@ -28,8 +27,7 @@ I'm a passionate **full-stack web developer** and **competitive programmer** wit
 - **Boost my CP rating & open-source contributions**  
 
 ## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=react&logoColor=white)](your-portfolio-url)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](your-leetcode-url)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurdaulet-sovetkhan-946701296/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=react&logoColor=white)](https://sovetkhan.kz)  
 
 _"Striving for greatness—one line of code at a time."_
