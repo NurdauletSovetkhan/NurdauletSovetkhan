@@ -16,9 +16,9 @@ I'm a passionate **full-stack web developer** and **competitive programmer** wit
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NurdauletSovetkhan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NurdauletSovetkhan&theme=radical" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurdauletSovetkhan&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## 🎯 Goals for 2025  
