@@ -1,4 +1,4 @@
-# Hi there, I'm Nurdalet! 👋  
+# Hi there, I'm Nurdaulet! 👋  
 
 I'm a passionate **full-stack web developer** and **competitive programmer** with a strong focus on writing clean, efficient, and scalable code. Currently studying **Computer Science at AITU**, I love solving complex problems, exploring new technologies, and building cool projects.  
 
@@ -13,6 +13,13 @@ I'm a passionate **full-stack web developer** and **competitive programmer** wit
 - **Full-stack development** (React, Next.js, Node.js)  
 - **Assembly language & low-level programming**  
 - Mastering **English (C2) & German (A2)**  
+
+## 📊 GitHub Stats  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ## 🎯 Goals for 2025  
 - **GPA 4.0 & IELTS 8.0+**  
