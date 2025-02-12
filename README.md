@@ -1,4 +1,4 @@
-# Hi there, I'm Nurdaulet! 👋  
+# Hello 👋  
 
 I'm a passionate **full-stack web developer** and **competitive programmer** with a strong focus on writing clean, efficient, and scalable code. Currently studying **Computer Science at AITU**, I love solving complex problems, exploring new technologies, and building cool projects.  
 
