@@ -16,7 +16,6 @@ I'm a passionate **full-stack web developer** and **competitive programmer** wit
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NurdauletSovetkhan&theme=radical" alt="GitHub Streak" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurdauletSovetkhan&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
