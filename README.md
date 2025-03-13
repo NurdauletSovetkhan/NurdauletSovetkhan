@@ -20,12 +20,6 @@ I'm a passionate **full-stack web developer** and **competitive programmer** wit
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurdauletSovetkhan&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 🎯 Goals for 2025  
-- **GPA 4.0 & IELTS 8.0+**  
-- **Exchange Program or Master's Abroad**  
-- **Join a top-tier tech company**  
-- **Boost my CP rating & open-source contributions**  
-
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurdaulet-sovetkhan-946701296/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=react&logoColor=white)](https://sovetkhan.kz)  
